@@ -85,11 +85,11 @@ A polished 3-reel slot machine demo built in Unity, featuring:
 - **Canvas Scaler** configured for Screen-Space Overlay
 
  ### Folder Structure:
-Assets/
-├── Prefabs/
-├── Scenes/
-├── Scripts/
-├── Sprites/
+Assets/ <br>
+├── Prefabs/ <br>
+├── Scenes/  <br>
+├── Scripts/  <br>
+├── Sprites/  <br>
 
 ### Clone & Open
 
