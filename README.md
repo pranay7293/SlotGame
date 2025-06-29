@@ -82,7 +82,14 @@ A polished 3-reel slot machine demo built in Unity, featuring:
 ### Requirements
 - **Unity 2021.3 LTS** (or newer)  
 - **TextMeshPro** package  
-- **Canvas Scaler** configured for Screen-Space Overlay  
+- **Canvas Scaler** configured for Screen-Space Overlay
+
+ ### Folder Structure:
+Assets/
+├── Prefabs/
+├── Scenes/
+├── Scripts/
+├── Sprites/
 
 ### Clone & Open
 
