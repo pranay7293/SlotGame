@@ -1,4 +1,4 @@
-# 🎰 Real-Time Unity Slot Machine (Unity 2D/3D)
+# 🎰 Real-Time Unity Slot Machine (Unity 2D)
 
 A polished 3-reel slot machine demo built in Unity, featuring:
 
