@@ -18,7 +18,7 @@ A polished 3-reel slot machine demo built in Unity, featuring:
 - **3-of-a-kind** pays: Seven ➔ 1000×, Bar ➔ 500×, Diamond ➔ 250×, Bell ➔ 150×, Cherry ➔ 80×  
 - **2-of-a-kind** pays: Seven ➔ 100×, Bar ➔ 75×, Diamond ➔ 40×, Bell ➔ 30×, Cherry ➔ 25×  
 - Other symbols (Lemon, Watermelon, Grapes, Orange) do **not** pay  
-- **AccountManager** tracks balance, enforces bets, credits wins  
+- **AccountManager** tracks balance, enforces bets, and credits wins  
 - **SimulationManager** runs up to millions of spins off-screen, displays RTP ±95% CI  
 
 ---
@@ -43,7 +43,7 @@ A polished 3-reel slot machine demo built in Unity, featuring:
 
 ## 📦 Download APK
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/your-username/YourRepo/releases/download/v1.0/SlotMachine.apk)  
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://drive.google.com/file/d/103aTaFXa0RvfO7XLq6rbDETN9sCpaPh_/view?usp=sharing)  
 > *Install on Android devices. Enable “Unknown Sources.”*
 
 ---
@@ -87,5 +87,5 @@ A polished 3-reel slot machine demo built in Unity, featuring:
 ### Clone & Open
 
 ```bash
-git clone https://github.com/your-username/YourRepo.git
-cd YourRepo
+git clone https://github.com/pranay7293/SlotGame.git
+cd SlotGame
