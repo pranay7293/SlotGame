@@ -36,7 +36,7 @@ A polished 3-reel slot machine demo built in Unity, featuring:
 
 ## ▶️ Try It Now
 
-[![Play on WebGL](https://img.shields.io/badge/Play-WebGL-green?style=for-the-badge)](https://example.com/slot-machine/player)  
+[![Play on WebGL](https://img.shields.io/badge/Play-WebGL-green?style=for-the-badge)](https://pranaygamedev.itch.io/slot-game)  
 > *Runs in browser. No download needed.*
 
 ---
